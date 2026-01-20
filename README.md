@@ -59,6 +59,7 @@ Currently studying BTech in Robotics & Automation and building skills step by st
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)  
 📧 Email: [adityakadam04082006@gmail.com](mailto:adityakadam04082006@gmail.com)  
 🔗 GitHub: [adityakadam04082006-a11y](https://github.com/adityakadam04082006-a11y)
+LinkedIn Id: https://www.linkedin.com/in/aditya-kadam-190104341
 
 ---
 
