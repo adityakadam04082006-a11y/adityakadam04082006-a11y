@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=06b6d4,22c55e&height=250&section=header&text=Aditya%20Kadam&fontSize=70&fontColor=ffffff&desc=Robotics%20%26%20Automation%20Engineer&descSize=20&descAlignY=65&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=06b6d4,22c55e&height=250&section=header&text=Aditya%20Kadam&fontSize=70&fontColor=ffffff&desc=Robotics%20and%20Automation%20Engineer&descSize=20&descAlignY=65&animation=fadeIn)
 
 <br>
 
-<img src="https://github.com/withaarzoo/Iron-man/assets/59678435/fed41443-9ac4-40bf-8bb7-0ffaa0ba5f64" width="100%" alt="Iron Man Suit Up">
+<img src="https://github.com/withaarzoo/Iron-man/assets/59678435/fed41443-9ac4-40bf-8bb7-0ffaa0ba5f64" width="600" alt="Iron Man Suit Up">
 
 <br>
 
