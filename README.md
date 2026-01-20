@@ -1,7 +1,5 @@
-<!-- HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=06b6d4,22c55e&height=260&section=header&text=Adi&fontSize=90&fontColor=ffffff&desc=Robotics%20%26%20Full%20Stack%20Developer&descSize=22&descAlignY=65)
-
-<h2 align="center">👋 Hello World, this is my GitHub Profile!</h2>
+<!-- ================= HEADER ================= -->
+![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=06b6d4,22c55e&section=header&text=Adi&fontSize=90&fontColor=ffffff&desc=Robotics%20%26%20Full%20Stack%20Developer&descSize=22&descAlignY=65)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-06b6d4?style=for-the-badge&logo=robot&logoColor=white&color=0c0e12"/>
@@ -14,7 +12,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityakadam04082006-a11y&show_icons=true&title_color=22c55e&icon_color=06b6d4&text_color=ffffff&bg_color=0c0e12&border_color=06b6d4&hide_border=false&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakadam04082006-a11y&theme=dark&background=0c0e12&ring=22c55e&fire=06b6d4&currStreakLabel=22c55e&border=06b6d4" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakadam04082006-a11y&background=0c0e12&ring=22c55e&fire=06b6d4&currStreakLabel=22c55e&border=06b6d4" height="165"/>
 </p>
 
 <p align="center">
@@ -48,11 +46,11 @@
 ## 👨🏻‍💻 About Me
 
 - 🎓 BTech in **Robotics & Automation**
-- 🤖 Passionate about **Robotics, Automation & AI**
+- 🤖 Interested in **Robotics, Automation & AI**
 - 🌐 Learning **Full Stack Web Development**
-- 🧠 Interested in understanding **logic + system behavior**
-- 🛠️ Building small projects and improving step by step
-- 🤝 Open to collaboration and open-source work
+- 🧠 Curious about system logic & behavior
+- 🛠️ Building projects step by step
+- 🤝 Open to collaboration & open source
 
 ---
 
@@ -70,5 +68,5 @@
   </a>
 </p>
 
-<!-- FOOTER -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=06b6d4,22c55e&height=120&section=footer)
+<!-- ================= FOOTER ================= -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=06b6d4,22c55e&section=footer)
