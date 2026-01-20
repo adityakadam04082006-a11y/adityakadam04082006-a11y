@@ -1,14 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=06b6d4,22c55e&height=220&section=header&text=Aditya%20Kadam&fontSize=80&fontColor=ffffff&desc=Robotics%20%26%20Full%20Stack%20Dev&descSize=20&descAlignY=65)
-
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=22c55e&center=true&vCenter=true&width=500&lines=I+am+Iron+Man...;Just+Kidding,+I'm+Adi!;Robotics+%26+Automation+Engineer;Full+Stack+Developer" alt="Typing SVG" />
-</a>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=06b6d4,22c55e&height=220&section=header&text=Aditya%20Kadam&fontSize=70&fontColor=ffffff&desc=Robotics%20Engineer%20-%20Full%20Stack%20Dev&descSize=20&descAlignY=60&animation=fadeIn)
 
 <br>
 
-<img src="./ironman-fly.jpg" width="300" alt="Iron Man Hovering">
+<img src="https://media.giphy.com/media/14vh2VWCibnsuk/giphy.gif" width="280" alt="Iron Man Hovering">
+
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=22c55e&center=true&vCenter=true&width=500&lines=System+Online...;Initializing+Jarvis+Protocol...;Target:+Full+Stack+Mastery;Subject:+Aditya+Kadam" alt="Typing SVG" />
+</a>
 
 <br>
 
@@ -21,12 +23,13 @@
 
 ---
 
-<h2 align="center">🛠️ Jarvis Protocol (Tech Stack)</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-0c0e12?style=for-the-badge&logo=robot&logoColor=white" />
   <img src="https://img.shields.io/badge/React-0c0e12?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-0c0e12?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/MongoDB-0c0e12?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Python-0c0e12?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 
 ---
