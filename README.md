@@ -40,6 +40,15 @@ Currently studying BTech in Robotics & Automation and building skills step by st
   </a>
 </p>
 
+#📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=adityakadam04082006-a11y&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=adityakadam04082006-a11y&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakadam04082006-a11y&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adityakadam04082006-a11y&theme=radical&margin-w=4)
 ---
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
