@@ -61,5 +61,15 @@
   </a>
   <a href="mailto:adityakadam04082006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+
+
+
+
+    ![snake_gif](https://github.com/adityakadam04082006-a11y/adityakadam04082006-a11y/blob/output/github-snake-dark.svg)
+
+ 
+ 
+ 
   </a>
 </p>
