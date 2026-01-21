@@ -65,8 +65,7 @@
 
 
 
-
-    ![snake_gif](https://github.com/adityakadam04082006-a11y/adityakadam04082006-a11y/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/adityakadam04082006-a11y/adityakadam04082006-a11y/blob/output/github-contribution-grid-snake.gif)
 
  
  
