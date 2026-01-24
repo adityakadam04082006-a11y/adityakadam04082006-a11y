@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- HEADER (FIXED: using <img>, not markdown) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=06b6d4,22c55e&height=250&section=header&text=Aditya%20Kadam&fontSize=70&fontColor=ffffff&desc=Robotics%20and%20Automation%20Engineer&descSize=20&descAlignY=65&animation=fadeIn" alt="Header" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=06b6d4,22c55e&height=250&section=header&text=Aditya%20Kadam&fontSize=70&fontColor=ffffff&desc=Robotics%20and%20Automation%20Engineer&descSize=20&descAlignY=65&animation=fadeIn)
 
 <br>
 
-<!-- IRON MAN IMAGE -->
 <img src="https://github.com/withaarzoo/Iron-man/assets/59678435/fed41443-9ac4-40bf-8bb7-0ffaa0ba5f64" width="600" alt="Iron Man Suit Up">
 
 <br>
 
-<!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=22c55e&center=true&vCenter=true&width=500&lines=System+Online...;Initializing+Jarvis...;Robotics+%26+Automation+Engineer;Python+•+C/C%2B%2B+•+Java" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=22c55e&center=true&vCenter=true&width=500&lines=System+Online...;Initializing+Jarvis...;Robotics+%26+Automation+Engineer;Python+%E2%80%A2+C%2FC%2B%2B+%E2%80%A2+Java" alt="Typing SVG" />
 </a>
 
 <br>
@@ -30,14 +27,31 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotics-0c0e12?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-0c0e12?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0c0e12?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Java-0c0e12?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <a href="https://github.com/search?q=user:adityakadam04082006-a11y+language:C%2B%2B">
+    <img src="https://img.shields.io/badge/C%2B%2B-0c0e12?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  </a>
+
+  <a href="https://github.com/search?q=user:adityakadam04082006-a11y+language:Python">
+    <img src="https://img.shields.io/badge/Python-0c0e12?style=for-the-badge&logo=python&logoColor=3776AB" />
+  </a>
+
+  <a href="https://github.com/search?q=user:adityakadam04082006-a11y+language:Java">
+    <img src="https://img.shields.io/badge/Java-0c0e12?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
+
   <br>
-  <img src="https://img.shields.io/badge/React-0c0e12?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-0c0e12?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/MongoDB-0c0e12?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+
+  <a href="https://github.com/search?q=user:adityakadam04082006-a11y+language:JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-0c0e12?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  </a>
+
+  <a href="https://github.com/search?q=user:adityakadam04082006-a11y+language:TypeScript">
+    <img src="https://img.shields.io/badge/TypeScript-0c0e12?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  </a>
+
+  <a href="https://github.com/search?q=user:adityakadam04082006-a11y+language:MongoDB">
+    <img src="https://img.shields.io/badge/MongoDB-0c0e12?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  </a>
 </p>
 
 ---
@@ -62,6 +76,7 @@
   <a href="https://www.linkedin.com/in/aditya-kadam-190104341">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:adityakadam04082006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -69,7 +84,4 @@
 
 ---
 
-<!-- SNAKE ANIMATION -->
-<p align="center">
-  <img src="https://github.com/adityakadam04082006-a11y/adityakadam04082006-a11y/blob/output/github-contribution-grid-snake.gif" />
-</p>
+![snake gif](https://github.com/adityakadam04082006-a11y/adityakadam04082006-a11y/blob/output/github-contribution-grid-snake.gif)
