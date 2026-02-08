@@ -56,15 +56,6 @@
 
 ---<h2 align="center">📊 System Analytics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakadam04082006-ally&show_icons=true&title_color=22c55e&icon_color=06b6d4&text_color=ffffff&bg_color=0c0e12&border_color=06b6d4&hide_border=false" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakadam04082006-ally&ring=22c55e&fire=06b6d4&currStreakLabel=ffffff&currStreakNum=22c55e&sideNums=ffffff&sideLabels=ffffff&background=0c0e12&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakadam04082006-ally&layout=compact&title_color=22c55e&text_color=ffffff&bg_color=0c0e12&border_color=06b6d4&hide_border=false" />
-</p>
-
 <h2 align="center">📫 Uplink (Connect)</h2>
 
 <p align="center">
